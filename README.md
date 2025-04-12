@@ -38,15 +38,13 @@ getall(): Lists all medicines in the system
 
 ➤ 3. Main Menu: This file interacts with the user through a menu in a continuous loop. The user selects an operation by entering a choice from 1 to 6.
 
-Technical Details: Language: Python
+Technical Details:
+Language:Python
+
 Concepts Used:
-
 Object-Oriented Programming (Classes, Objects)
-
 Dictionary for storage
-
 User input and loops
-
 Conditional statements
 
 Conclusion: This project successfully demonstrates how basic object-oriented programming concepts can be applied to build a real-life application. The Medicine Management System offers an efficient and easy-to-use interface to manage medicine inventories and provides a foundation for more advanced systems.
