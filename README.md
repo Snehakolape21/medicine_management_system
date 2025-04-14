@@ -1,5 +1,5 @@
 Introduction:
-The Medicine Management System is a Python-based console application designed to manage the inventory of medicines in a pharmacy or medical store. It is a basic implementation of CRUD operations (Create, Read, Update, Delete) using object-oriented programming concepts.
+The Medicine Management System is a Python-based console application designed to manage the inventory of medicines in a pharmacy or medical store. It is a basic implementation of  operations (add, Update, Delete) using object-oriented programming concepts.
 The main goal is to allow to:
 Add new medicines
 Update existing ones
